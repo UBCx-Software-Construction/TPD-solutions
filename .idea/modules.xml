@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BurgerByteMaster/BurgerByteMaster.iml" filepath="$PROJECT_DIR$/BurgerByteMaster/BurgerByteMaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TraceableMaster/TraceableMaster.iml" filepath="$PROJECT_DIR$/TraceableMaster/TraceableMaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VegetableGardenMaster/VegetableGardenMaster.iml" filepath="$PROJECT_DIR$/VegetableGardenMaster/VegetableGardenMaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZooManagerMaster/ZooManagerMaster.iml" filepath="$PROJECT_DIR$/ZooManagerMaster/ZooManagerMaster.iml" />
+    </modules>
+  </component>
+</project>
