@@ -21,8 +21,8 @@ public class FingerprintTest {
     @Test
     public void testGetters() {
         assertEquals(fp.getOwner(), person);
-        assertEquals(fp.getLocation(), "Vancouver");
-        assertEquals(fp.getTrace(), "Vancouver");
+        assertEquals(fp.getLocation(), "Metro Vancouver");
+        assertEquals(fp.getTrace(), fp);
     }
 
     @Test
